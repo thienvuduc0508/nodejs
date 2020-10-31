@@ -1,5 +1,5 @@
-h1 {
-  color: green; }
+.card-row {
+  display: flex; }
 
-h2 {
-  color: green; }
+.card-item {
+  flex-basis: 100%; }

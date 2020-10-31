@@ -1,8 +1,8 @@
 @import 'variables';
 
-h1 {
-    color: $red-color;
+.card-row {
+    display: flex;
 }
-h2 {
-    color: green;
+.card-item {
+    flex-basis: 100%;
 }
